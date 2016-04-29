@@ -11,7 +11,7 @@
 
  $CODOT = array (
   '' => NULL,
-  ' Discard draft' => ' 扔掉草稿',
+  ' Discard draft' => ' 丢弃草稿',
   ' Keep me logged in' => ' 保持登录',
   ' characters' => ' 个字符',
   ' for same topic' => ' 为相同的帖子',
@@ -92,7 +92,7 @@
   'Is sticky ?' => '置顶吗 ?',
   'Joined' => 'Joined',
   'Last login' => '上次登录',
-  'Last post time' => '上次发文时间',
+  'Last post time' => '上次发贴时间',
   'Load more' => '载入更多',
   'Login' => '登录',
   'Login here' => '登录这里',
@@ -130,7 +130,7 @@
   'Notifications' => '通知',
   'Notify any followers of the topic about this change ?' => '将此更改通知给所有追随者 ?',
   'Only' => '仅',
-  'Page not found' => '没找到页面',
+  'Page not found' => '页面找不到',
   'Password changed successfully' => '密码已更改',
   'Password changed successfully...Redirecting to login page' => '密码修改成功...正在重定向到登录页',
   'Password updated successfully' => '密码已更新',
@@ -229,7 +229,7 @@
   'ago' => '前',
   'at' => ' ',
   'avatar' => '头像',
-  'capcha entered was wrong' => '未通过人机识别',
+  'capcha entered was wrong' => '验证码错误',
   'confirm new password' => '确认新密码',
   'create' => '创建',
   'create a topic' => '创建一个帖子',
@@ -374,10 +374,6 @@ BACKEND: Dashboard
 'Total Views'=>'次浏览',
 'Visit Forum'=>'查看论坛',
 'Latest News & Alerts'=>'最新消息与警告',
-
-
-
-
 
 
 
