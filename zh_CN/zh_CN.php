@@ -319,8 +319,8 @@
   'username field cannot be left empty' => '用户名栏不能为空',
   'username or e-mail address' => '用户名或电邮地址',
   'views' => '次阅读',
-  'vote down' => '赞',
-  'vote up' => '差评',
+  'vote down' => '差评',
+  'vote up' => '赞',
   'your previous draft will be discarded.' => '您的上一个草稿将会被丢弃.',
 
 /*
