@@ -312,15 +312,15 @@
   'until ' => '直到 ',
   'user already exists' => '用户已存在',
   'user profile edits saved successfully' => '用户资料已更新',
-  'username' => '用户已',
+  'username' => '用户名',
   'username already exists' => '用户名已存在',
   'username can have only letters digits and underscores' => '用户名仅能由数字字母和下划线组成',
   'username cannot be less than ' => '用户名不能短于 ',
   'username field cannot be left empty' => '用户名栏不能为空',
   'username or e-mail address' => '用户名或电邮地址',
   'views' => '次阅读',
-  'vote down' => '褒',
-  'vote up' => '贬',
+  'vote down' => '赞',
+  'vote up' => '差评',
   'your previous draft will be discarded.' => '您的上一个草稿将会被丢弃.',
 
 /*
